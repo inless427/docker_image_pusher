@@ -3,6 +3,12 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
+ghcr.io/hyperledger/fabric-peer:2.5.16
+ghcr.io/hyperledger/fabric-orderer:2.5.16
+ghcr.io/hyperledger/fabric-ccenv:2.5.16
+ghcr.io/hyperledger/fabric-baseos:2.5.16
+ghcr.io/hyperledger/fabric-ca:1.5.17
+
 #开始我的镜像备份
 talebook/talebook
 nyanmisaka/jellyfin
